@@ -1,4 +1,4 @@
-#Run Analysis script, Diego Jaramillo Celis 10/07/2014
+#Run Analysis script, Diego Jaramillo Celis 07/2014
 
 #This script:
 # 1. Merges the training and the test sets to create one data set.
